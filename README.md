@@ -163,7 +163,7 @@ coe2_float = float(coe2)
 #FIGURA QUE VA A CONTENER AMBOS GRAFICOS
 plt.figure(figsize=(12, 6))
 
-#GRAFICAR EL COEFICIENTE DE VARIACION DE MANERA MANUAL
+#GRAFICAR EL COEFICIENTE DE VARIACION DE MANERA MANUAL.
 plt.subplot(2, 1, 1)
 plt.plot(valores)
 plt.xlabel('Muestra')
